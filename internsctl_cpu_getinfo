@@ -1,0 +1,7 @@
+echo "CPU Information"
+echo "--------------"
+lscpu
+
+echo "Detailed CPU Information"
+echo "------------------------"
+cat /proc/cpuinfo

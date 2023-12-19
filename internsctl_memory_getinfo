@@ -1,0 +1,3 @@
+echo "Memory Information"
+ls free
+cat /proc/meminfo
